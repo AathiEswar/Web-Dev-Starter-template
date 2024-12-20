@@ -4,9 +4,9 @@ import InsideContext from '../fleetstudio/fleet-card/context/InsideContext'
 
 function Home() {
   return (
-    <InsideContext>
-      <FleetCardMain />
-    </InsideContext>
+    <div>
+      this is home
+    </div>
   )
 }
 
